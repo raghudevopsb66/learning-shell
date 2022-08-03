@@ -25,5 +25,6 @@ In shell we are creating scripts and those we are going to give extension to und
 - We learn bash shell here
 - So the filenames can be .bash or even a lot of people still use .sh, Since linux does not bother about anything any extension is OK. It is our compfort.
 - I prefer using .sh over .bash 
-
+- We can execute the script as `bash script.sh`
+- 
 
