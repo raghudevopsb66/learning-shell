@@ -9,3 +9,12 @@ echo -e "Hello\nWorld"
 
 # Tabbed line
 echo -e "one\t\ttwo"
+
+# Color printing
+echo -e "\e[31mHello\e[0m"
+
+# Syntax:   -e to enable \e
+#           \e[31m, 31 is the color code
+#           \e[0m , 0 is to reset the color
+## Note : In shell when we enable any color and it is our responsibility to disable it.
+
