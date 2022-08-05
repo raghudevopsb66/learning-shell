@@ -11,3 +11,6 @@ echo Todaye date is $date1
 
 b=$((2+3-5*6))
 echo Value of b = $b
+
+## This is env vari
+echo Value of c = $c
