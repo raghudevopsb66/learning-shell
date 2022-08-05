@@ -30,3 +30,6 @@ echo -e "\e[36mHello\e[0m"
 # BLUE        34
 # MAGENTA     35
 # CYAN        36
+
+## We prefer always to go with Double quotes.
+
