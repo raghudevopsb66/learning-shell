@@ -2,7 +2,7 @@
 
 ## Declare a function
 Sample() {
-  a=30 
+  a=30
   echo Sample Function
   echo a from main program = $a
   b=20
@@ -12,4 +12,7 @@ Sample() {
 a=10
 Sample
 echo b from function = $b
+echo a in main program = $a
+
+
 
