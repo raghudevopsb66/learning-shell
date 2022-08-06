@@ -6,3 +6,4 @@ then
 else
   echo Both are not same
 fi
+
